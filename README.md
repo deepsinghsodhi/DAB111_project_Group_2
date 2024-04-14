@@ -3,7 +3,7 @@
 National Health and Nutrition Health Dataset
 
 This website is built using flask framework,inside the website(in Navbar) there are four sections
-1)Definition - Inside this our Definition is written.
+1)Definition - Inside this our definition is written.
 2)About - Here you can get information regarding database,like whats the name of database,purpose, creator, number of instances,how was the data collected.
 3)Features - The dataset features include physiological measurements, lifestyle choices, and biochemical markers, which were hypothesized to have strong correlations with age.
 4)Dataset - overall presentation of database.
