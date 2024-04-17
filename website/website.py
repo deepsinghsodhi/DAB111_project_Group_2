@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import sqlite3
 import pathlib 
 
-base_path = pathlib.Path.home() / "D:/2 python, Mark Cassar/Website"
+base_path = pathlib.Path.home() / "D:/2 python, Mark Cassar/Website/DAB111_project_Group_2/database"
 
 db_name = "nutrition.db"
 db_path = base_path / db_name
