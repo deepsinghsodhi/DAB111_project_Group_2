@@ -11,7 +11,7 @@ This website is built using flask framework,inside the website(in Navbar) there 
 
 In this project we use sqlite3 package, we store our data in sqlite and then fetch from it.
 
-our database file name is "nutritin.db"
+our database file name is "nutrition.db"
 
 we have all added requirements.txt file here, so that if any user wants to run the project make sure to install all the necessary packages before running the project.
 
